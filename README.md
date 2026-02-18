@@ -1,4 +1,3 @@
-# Syntecxhub_House_Price_Perdiction
 # 🏠 House Price Prediction Project
 
 ## 📌 Overview
