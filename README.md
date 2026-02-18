@@ -76,5 +76,3 @@ However, due to non-linear relationships in housing features, tree-based models 
 - Joblib
 
 ---
-
-## 📂 Project Structure
